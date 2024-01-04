@@ -111,3 +111,5 @@ window.addEventListener('load', catWalk);
 // }
 
 // window.addEventListener('load', catWalk);
+
+const test = new Promise(() => {});
